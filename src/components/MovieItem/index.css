@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.popup-container {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.list-container {
+  margin: 10px;
+}
+
+.thumbnail {
+  width: 200px;
+}
+
+.video-container {
+  padding: 20px;
+  margin: 15px;
+}

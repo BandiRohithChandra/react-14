@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.prime-video {
+  width: 100%;
+}
+
+.prime-video-container {
+  background-color: #000000;
+  padding: 20px;
+}
+
+h1 {
+  color: #ffffff;
+}
